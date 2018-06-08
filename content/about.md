@@ -1,18 +1,28 @@
 ---
 title: About
-subtitle: About Alpha-Church
+subtitle: About Goldthorpe Scouts
 date: 2018-04-30 10:05:49 +1000
 feature_image: img/freely-20445.jpg
 type: page
 
 ---
-This is an example about page.
 
-With a bible quote for good measure!
+Goldthorpe Scout Group was one of the first 100 groups in the world to be established in 1908, originally as the 1st Don & Dearne (Goldthorpe), according to a Scout Association fact sheet, which you can access here: [http://scouts.org.uk/f103775](http://scouts.org.uk/f103775)
 
-> “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”
 
-\(John 3:16–18 NIV11-GKE)
+In the 1970’s the council boundaries changed so that Goldthorpe came under Barnsley rather than Doncaster, and the Scout group became known as the 6th Barnsley (Goldthorpe) Scout Group and ran successfully until around the start of the new millennium.  Due to illness and a bereavement within the adult leaders team around this time, the group  was closed and despite attempts lasting over a decade was not resurrected.
 
-And a map
-{{< osmap >}}
+In September 2013,the group reformed and new life was breathed into the thriving 6th Barnsley (Goldthorpe) Scout Group!
+
+We are one of 16 Scout Groups in the Barnsley District area and of course, we think we are are the best!  We have won a number of awards since we opened: 
+
+Proud of Barnsley Children's Champion 2014
+Barnsley Beaver Leader of the Year 2014
+Barnsley Scout Group of the Year 2015
+Cub Scout Leader of the Year 2016 
+
+And we still keep getting nominated!
+
+#### WHAT MAKES US SO GOOD?
+
+Beavers, Cubs and Scouts is for both boys AND girls!  We incorporate fun and games into every session, promote teamwork and leadership, ensure that the young people are challenged so they can reach the best of their ability and of course provide learning through ADVENTURE!
