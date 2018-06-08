@@ -117,30 +117,26 @@ googleAnalytics = ""
 
       #Accent is a colour defined in the CSS file. Choose between 1 and 5
       [[params.landing.feature_icons.tile]]
-        icon = "fa-tree"
-        icon_pack = "fas"
-        accent = "1"
+        img = "/img/logo_beavers.png"
+        url = "/beavers"
         title = "Beavers"
-        text = "Growing people who serve our community."
+        text = "Our youngest section from 6 to 8 1/2"
 
       [[params.landing.feature_icons.tile]]
-        icon = "fa-user-friends"
-        icon_pack = "fas"
-        accent = "2"
+        img = "/img/logo_cubs.png"
+        url = "/cubs"
         title = "Cubs"
-        text = "Meeting together to hear."
+        text = "Our growing young people from 8 to 10 1/2"
 
       [[params.landing.feature_icons.tile]]
-        icon = "fa-fire"
-        icon_pack = "fas"
-        accent = "5"
+        img = "/img/logo_scouts.png"
+        url = "/scouts"
         title = "Scouts"
-        text = "Speaking encouragement to one-another."
+        text = "Our oldest adventureres from 10 1/2 to 14"
 
       [[params.landing.feature_icons.tile]]
-        icon = "fa-user-friends"
-        icon_pack = "fas"
-        accent = "3"
+        img = "/img/group_badge.png"
+        url = "/apply"
         title = "Join Us"
         text = "Apply to join the fun!"
 
