@@ -1,0 +1,64 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: passage
+  label: Passage
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 
+- name: audio
+  label: Audio
+  type: textarea
+  hidden: false
+  default: ''
+- name: audio_duration
+  label: Audio duration
+  type: text
+  hidden: false
+  default: ''
+- name: audio_size
+  label: Audio size
+  type: text
+  hidden: false
+  default: 0
+- name: feature_image
+  label: Feature image
+  type: text
+  hidden: false
+  default: ''
+- name: preachers
+  label: Preachers
+  type: tag_list
+  hidden: false
+  default: []
+- name: series
+  label: Series
+  type: tag_list
+  hidden: false
+  default: []
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
