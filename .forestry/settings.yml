@@ -3,9 +3,7 @@ new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections:
-  sermons:
-    default_front_matter_template: sermons
+sections: 
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
