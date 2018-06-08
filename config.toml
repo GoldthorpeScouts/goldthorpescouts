@@ -141,14 +141,14 @@ googleAnalytics = ""
 
       [[params.landing.feature_images.tile]]
         image = "img/freely-10057.jpg"
-        title = "Childrens' Ministry"
-        text = "A church for the family."
+        title = "Our Ethos"
+        text = "Everyday Adventure"
         url = "/kids"
         button_text = "Learn more"
 
       [[params.landing.feature_images.tile]]
         image = "img/freely-26905.jpg"
-        title = "Midweek Ministries"
+        title = "Another Info Page"
         text = "Want more during the week?"
         url = "#"
         button_text="Join a group today!"
@@ -158,7 +158,7 @@ googleAnalytics = ""
       message = "We'd love to hear from you."
 
     [params.footer]
-      copyright = "[CC0 (public domain)](http://creativecommons.org/publicdomain/zero/1.0/)"
+      copyright = "[&copy; Goldthorpe Scouts 2018](http://creativecommons.org/publicdomain/zero/1.0/)"
 
     [[params.links]]
       service = "Twitter"

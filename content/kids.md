@@ -1,9 +1,9 @@
 ---
 title: "Kids"
-subtitle: "Ministry with Children"
+subtitle: "Our Ethos"
 date: 2018-05-01T07:39:12+10:00
 feature_image: "/img/freely-10057.jpg"
-tags: ["two_column","ministry"]
+tags: ["two_column"]
 draft: false
 ---
   This is an example of multiple columns.
