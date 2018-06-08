@@ -3,7 +3,7 @@ title: "Beavers"
 subtitle: "Young people from 6 to 8 and a half"
 date: 2018-05-01T07:39:12+10:00
 feature_image: "/img/freely-10057.jpg"
-tags: ["two_column"]
+tags: ["beavers"]
 draft: false
 ---
 

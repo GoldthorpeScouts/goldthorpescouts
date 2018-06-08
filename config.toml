@@ -24,36 +24,45 @@ googleAnalytics = ""
 
   [[menu.main]]
     name = "About"
-    url = "about"
+    url = "/about"
     weight = 2
 
   [[menu.main]]
-    name = "About Us"
-    parent = "About"
-    url = "/about"
-    weight = 1
+    name = "Our Sections"
+    weight = 3
+
+  [[menu.main]]
+    name = "Beavers"
+    url = "/beavers"
+    parent= "Our Sections"
+    weight = 3
  
   [[menu.main]]
-    name = "Our Sections"
-    parent = "About"
-    url = "/about"
-    weight = 1
+    name = "Cubs"
+    url = "/cubs"
+    parent= "Our Sections"
+    weight = 4
+
+  [[menu.main]]
+    name = "Scouts"
+    url = "/scouts"
+    parent= "Our Sections"
+    weight = 5
 
   [[menu.main]]
     name = "Leaders"
-    parent = "About"
     url = "/leaders"
-    weight = 2
+    weight = 6
 
   [[menu.main]]
     name = "Blog"
     url = "/posts"
-    weight = 3
+    weight = 7
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 8
 
 # Paramaters for the whole site
 [params]
