@@ -2,7 +2,7 @@
 title: "Scouts"
 subtitle: "Young people from 10 and a half to 14"
 date: 2018-05-01T07:39:12+10:00
-feature_image: "/img/freely-10057.jpg"
+feature_image: "/img/sunset_scouts.jpg"
 tags: ["scouts"]
 draft: false
 ---

@@ -1,9 +1,11 @@
-+++
-title = "Style Guide"
-date = 2017-11-14T10:57:55-05:00
-tags = []
-categories = []
-+++
+---
+title: "Style Guide"
+subtitle: ""
+date: 2018-05-03T21:08:01+10:00
+feature_image: "img/freely-26905.jpg"
+tags: ["testing"]
+draft: true
+---
 
 # Headings
 

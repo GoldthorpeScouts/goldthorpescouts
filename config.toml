@@ -11,7 +11,6 @@ googleAnalytics = ""
 
 [taxonomies]
   tag = "tags"
-  preacher = "preachers"
   series = "series"
 
 #This theme can generate a multi-level theme.
@@ -67,11 +66,9 @@ googleAnalytics = ""
 # Paramaters for the whole site
 [params]
   title = "Goldthorpe Scouts"
-  subtitle = "Adventure!"
+  subtitle = "Everyday adventure for young people with an award winning Scout Group"
   author = "Goldthorpe Scouts"
-
-  bible_popups = true
-
+  
   [params.map]
     # For Open Street Map widgets
     latitude = "53.53637"
