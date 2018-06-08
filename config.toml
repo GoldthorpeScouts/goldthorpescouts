@@ -68,7 +68,7 @@ googleAnalytics = ""
   title = "Goldthorpe Scouts"
   subtitle = "Everyday adventure for young people with an award winning Scout Group"
   author = "Goldthorpe Scouts"
-  
+
   [params.map]
     # For Open Street Map widgets
     latitude = "53.53637"
@@ -142,14 +142,14 @@ googleAnalytics = ""
       enable = true
 
       [[params.landing.feature_images.tile]]
-        image = "img/freely-10057.jpg"
+        image = "img/pioneering.jpg"
         title = "Our Ethos"
         text = "Everyday Adventure"
         url = "/kids"
         button_text = "Learn more"
 
       [[params.landing.feature_images.tile]]
-        image = "img/freely-26905.jpg"
+        image = "img/den2.jpg"
         title = "Another Info Page"
         text = "Want more during the week?"
         url = "#"

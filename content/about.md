@@ -2,7 +2,7 @@
 title: About
 subtitle: About Goldthorpe Scouts
 date: 2018-04-30 10:05:49 +1000
-feature_image: img/freely-20445.jpg
+feature_image: img/pioneering_2.jpg
 type: page
 
 ---
