@@ -47,10 +47,16 @@ googleAnalytics = ""
     url = "/scouts"
     parent= "Our Sections"
     weight = 5
-
+  
   [[menu.main]]
     name = "Leaders"
-    url = "/leaders"
+    url = "/leader"
+    parent= "Our Sections"
+    weight = 6
+
+  [[menu.main]]
+    name = "Parents"
+    url = "/parents"
     weight = 6
 
   [[menu.main]]
