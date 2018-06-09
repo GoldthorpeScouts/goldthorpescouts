@@ -69,12 +69,6 @@ googleAnalytics = ""
   subtitle = "Everyday adventure for young people with an award winning Scout Group"
   author = "Goldthorpe Scouts"
 
-  [params.map]
-    # For Open Street Map widgets
-    latitude = "53.53637"
-    longitude = "-1.30250"
-    zoom = "17"
-
   [params.contact]
     #Use this section to automate contact form.
     #Set service to either "netlify" or "formspree"
@@ -83,9 +77,9 @@ googleAnalytics = ""
     #
     #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
     #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
+    service = "formspree"
+    # confirm_page = "/contact_thanks"
+    formspree_email="info@goldthorpescouts.org.uk"
 
   #Paramaters for the home/landing page
   [params.landing]
@@ -105,8 +99,11 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Everyday Adventure"
-      text = "We meet at [Goldthorpe Scouts HQ, Lockwood Road, Goldthorpe](https://www.openstreetmap.org/node/705292616)."
+      text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non nisi et libero malesuada sagittis. Nulla rutrum pulvinar pretium. Aliquam pharetra, eros vitae viverra vestibulum, augue odio aliquet nibh, non laoreet magna magna sit amet lectus. Curabitur tempus leo in bibendum blandit. Maecenas eu lacus in ligula laoreet interdum. Integer odio justo, ultricies a commodo et, tempus eget massa. Praesent non elit id mi tempus tristique. Nam pretium dolor at ex aliquam, nec bibendum eros fermentum. Nulla fringilla orci eget odio luctus, consequat rutrum nisl pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vulputate rutrum. Nullam volutpat convallis tincidunt. Ut lorem elit, accumsan id molestie ac, placerat nec neque."
       map_location = "Lockwood Road, Goldthorpe"
+
+    [params.landing.feature]
+      image = "/img/sunset_scouts.jpg"
 
     [params.landing.feature_icons]
       #These feature icons look best if there's an even number of them.
