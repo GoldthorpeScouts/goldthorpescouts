@@ -33,18 +33,17 @@ This money is put into group funds which is used for a range of reasons such as 
 
 # Medication and Medical Conditions
 
-In order to keep your child safe, if your child  has a medical condition it is important that you tell us about it, what symptoms we may see and what actions to take, if your child is on a regular medication such as an inhaler for asthma please make sure they have it for every session. This should be handed to a leader in a clear plastic bag with your child's name and emergency contact number clearly marked. 
+In order to keep your child safe, if your child  has a medical condition it is important that you tell us about it, what symptoms we may see and what actions to take, if your child is on a regular medication such as an inhaler for asthma please make sure they have it for every session. This should be handed to a leader in a clear plastic bag with your child's name and emergency contact number clearly marked.
 
 There is a medical form that we will ask you to complete.
 
 ## Medication for days out and camps
 
-If your child is on a daily prescribed medication you should hand it to a leader on arrival. It should be in a clear plastic bag with you child's name and emergency contact number clearly marked. All medication must be in its original packaging with a pharmacy label which is undamaged and clear to read. Also any instructions you need us to follow should be clearly wrote down dated and signed and placed in the bag with the medication. 
+If your child is on a daily prescribed medication you should hand it to a leader on arrival. It should be in a clear plastic bag with you child's name and emergency contact number clearly marked. All medication must be in its original packaging with a pharmacy label which is undamaged and clear to read. Also any instructions you need us to follow should be clearly wrote down dated and signed and placed in the bag with the medication.
 
-No child will be allowed to manage or keep their own medication. 
+No child will be allowed to manage or keep their own medication.
 
-As leaders we reserve the right to refuse a child entry to camp / days  out if we are not satisfied  that all our criteria is has been met. 
-
+As leaders we reserve the right to refuse a child entry to camp / days  out if we are not satisfied  that all our criteria is has been met.
 
 # Volunteering
 
