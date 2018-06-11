@@ -74,6 +74,7 @@ googleAnalytics = ""
   title = "6th Barnsley (Goldthorpe)"
   subtitle = "Everyday adventure for young people with an award winning Scout Group"
   author = "Goldthorpe Scouts"
+  formspree_email="info@goldthorpescouts.org.uk"
 
   [params.contact]
     #Use this section to automate contact form.
@@ -84,8 +85,7 @@ googleAnalytics = ""
     #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
     #If you use formspree, you'll need to set your formspree email address.
     service = "formspree"
-    # confirm_page = "/contact_thanks"
-    formspree_email="info@goldthorpescouts.org.uk"
+    # confirm_page = "/contact_thanks"    
 
   #Paramaters for the home/landing page
   [params.landing]
