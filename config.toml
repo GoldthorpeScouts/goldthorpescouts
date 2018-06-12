@@ -153,10 +153,10 @@ googleAnalytics = ""
 
       [[params.landing.feature_images.tile]]
         image = "img/den2.jpg"
-        title = "What is Adventure?"
+        title = "Join in the adventure"
         text = "Want your child to do more during the week?"
         url = "/apply"
-        button_text="Join out group today!"
+        button_text="Join our group today!"
 
     [params.landing.CTA]
       heading = "Get in touch!"
