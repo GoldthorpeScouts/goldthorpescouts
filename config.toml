@@ -155,7 +155,7 @@ googleAnalytics = ""
         image = "img/den2.jpg"
         title = "What is Adventure?"
         text = "Want your child to do more during the week?"
-        url = "#"
+        url = "/apply"
         button_text="Join out group today!"
 
     [params.landing.CTA]
