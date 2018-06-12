@@ -18,7 +18,7 @@ We are one of 16 Scout Groups in the Barnsley District area and of course, we th
 Proud of Barnsley Children's Champion 2014  
 Barnsley Beaver Leader of the Year 2014  
 Barnsley Scout Group of the Year 2015  
-Cub Scout Leader of the Year 2016   
+Cub Scout Leader of the Year 2016  
 
 And we still keep getting nominated!
 
