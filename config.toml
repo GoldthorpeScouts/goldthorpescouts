@@ -117,19 +117,19 @@ googleAnalytics = "UA-120779958-1"
 
       #Accent is a colour defined in the CSS file. Choose between 1 and 5
       [[params.landing.feature_icons.tile]]
-        img = "/img/logo_beavers.png"
+        img = "/img/logos/beavers-logo-blue-png.png"
         url = "/beavers"
         title = "Beavers"
         text = "Our youngest section from 6 to 8 1/2"
 
       [[params.landing.feature_icons.tile]]
-        img = "/img/logo_cubs.png"
+        img = "/img/logos/cubs-logo-green-png.png"
         url = "/cubs"
         title = "Cubs"
         text = "Our growing young people from 8 to 10 1/2"
 
       [[params.landing.feature_icons.tile]]
-        img = "/img/logo_scouts.png"
+        img = "/img/logos/scouts-logo-green-png.png"
         url = "/scouts"
         title = "Scouts"
         text = "Our oldest adventureres from 10 1/2 to 14"
