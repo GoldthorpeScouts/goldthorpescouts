@@ -1,6 +1,8 @@
 +++
-date = "2018-06-12T12:34:39+00:00"
+date = "2018-06-12T12:34:39Z"
 draft = false
+feature_image = ""
+tags = ["news"]
 title = "Welcome to our new site"
 
 +++
