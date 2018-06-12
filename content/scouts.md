@@ -1,12 +1,14 @@
 ---
-title: "Scouts"
-subtitle: "Our oldest section on Goldthorpe for young people from 10 and a half to 14"
-date: 2018-05-01T07:39:12+10:00
+title: Scouts
+subtitle: Our oldest section at Goldthorpe for young people from 10 and a half to
+  14
+date: 2018-05-01 07:39:12 +1000
 feature_image: "/img/sunset_scouts.jpg"
-tags: ["scouts"]
-draft: false
----
+tags:
+- scouts
+type: page
 
+---
 > Scouting has given me a fantastic opportunity to do lots of activities and things that people who are not in Scouts don’t get to do. It’s about having fun with good friends.
 
 Scouts aims to build and develop young people’s confidence, sense of adventure and outdoor skills, as well as encouraging them to explore their beliefs and attitudes and be creative.  It offers them the independence to put these skills into practice at camps and even on international trips.
