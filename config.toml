@@ -105,7 +105,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Everyday Adventure"
-      text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non nisi et libero malesuada sagittis. Nulla rutrum pulvinar pretium. Aliquam pharetra, eros vitae viverra vestibulum, augue odio aliquet nibh, non laoreet magna magna sit amet lectus. Curabitur tempus leo in bibendum blandit. Maecenas eu lacus in ligula laoreet interdum. Integer odio justo, ultricies a commodo et, tempus eget massa. Praesent non elit id mi tempus tristique. Nam pretium dolor at ex aliquam, nec bibendum eros fermentum. Nulla fringilla orci eget odio luctus, consequat rutrum nisl pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vulputate rutrum. Nullam volutpat convallis tincidunt. Ut lorem elit, accumsan id molestie ac, placerat nec neque."
+      text = "Welcome to Goldthorpe Scouts! We are a local Scout group run by volunteers for young people aged from 6 to 14. We are passionate about scouting and want to make sure that every child gets the opportunity for adventure. <br /><br /> Our group is split into sections for different age groups. You can read more about them below."
       map_location = "Lockwood Road, Goldthorpe"
 
     [params.landing.feature]
@@ -146,17 +146,17 @@ googleAnalytics = ""
 
       [[params.landing.feature_images.tile]]
         image = "img/pioneering.jpg"
-        title = "Our Ethos"
-        text = "Everyday Adventure"
-        url = "/kids"
+        title = "About Us"
+        text = "Want to learn more?"
+        url = "/about"
         button_text = "Learn more"
 
       [[params.landing.feature_images.tile]]
         image = "img/den2.jpg"
-        title = "Another Info Page"
-        text = "Want more during the week?"
+        title = "What is Adventure?"
+        text = "Want your child to do more during the week?"
         url = "#"
-        button_text="Join a group today!"
+        button_text="Join out group today!"
 
     [params.landing.CTA]
       heading = "Get in touch!"
