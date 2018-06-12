@@ -15,23 +15,23 @@ Scouts are encouraged to work together and take the lead on all sorts of project
 
 The Scout Troup is the third section in the Scout Group, above Beavers and Cubs.  The Scout Section is for young people aged between 10 1/2 and 14 years.  There is core flexibility in the age range: young people can join from aged 10, and can move to Explorers between age 13 1/2 and 14 1/2.  It may sometimes be appropriate to extend this flexibility for young people with additional leads.  Please speak to a leader if you feel this is necessary - we will always try to accommodate where we can.
 
-## Structure
+# Structure
 A Scout Troop is divided into small groups call Patrols, each headed up by an older Scout called a Patrol Leader, and often with an Assistant Patrol Leader.
 
 We have 2 patrols at Goldthorpe
 
   <div class="row">
-    <div class="6u 12u(mobilep)">
-      <h4>Kestrels</h4>
+    <div class="6u 12u(mobilep) align-center">
+      <h2>Kestrels</h2>
       {{< figure src="/img/badges/patrol-badge-kestrel-jpg.jpg"  width="25%" >}}
     </div>
-    <div class="6u 12u(mobilep)">
-      <h4>Lions</h4>
+    <div class="6u 12u(mobilep) align-center">
+      <h2>Lions</h2>
       {{< figure src="/img/badges/patrol-badge-lion-jpg.jpg"  width="25%" >}}
     </div>
   </div>
 
-## Uniform & Equipment
+# Uniform & Equipment
 After your scout has attended a few sessions and they intend to stay with us, it’s time to start thinking about getting them into uniform! 
 
 Like the Scout badge, the uniform is an emblem of Scouting. It might be brand new, or it might be an experienced uniform already worn by another Scout to many meetings and campouts. Old or new, your Scout should wear their uniform proudly whenever they are taking part in Scout activities. Dressed as a Scout, your Scout will want to act as a Scout. Decades of experience show uniforming to have many benefits, including these:
@@ -61,24 +61,24 @@ There are a number of ways to purchase uniform:
 * Keep your eyes open in charity shops too, you can often find shirts and trousers in there.
 
 
-#### Badge Placement
+## Badge Placement
 Earning badges is an integral part of the Scouting experience. This means that sewing is too! To help out we have included some guidance on where your Scout should sew their badges onto their uniform.
 
 {{< figure src="/img/scoutshirt.png" width="100%" >}}
 
-#### Other Equipment
+## Other Equipment
 Your Scout won’t need a lot of other equipment all that we ask is that your scout comes equipped to each session with the right clothing, footwear and at least a waterproof coat. A lot of Scouting is about being outdoors and we don’t like to let mother nature interfere with our programme too much.
 
 A small bag with a warm jumper, hat and gloves regardless of the time of year. Also things like a torch with spare batteries can also be useful especially when it gets a bit darker towards winter.
 
 
-## Activities
+# Activities
 
 {{< figure src="/img/pioneer_swing.jpg" width="100%" >}}
 
 Scouts are encouraged to take part in a wide range of activities as part of their programme including traditional Scouting skills, such as camping, survival and cooking, as well as wider spectrum of adventurous activites, from abeiling to zorbing.  Participation rather than meeting set standards is the key approach, and there are a number of badges and awards that Scouts can gain to recognise their achievements.
 
-## Camping
+# Camping
 Camping and adventure sits at the centre of scouting and we are intending to hold a summer camp every year in the school holidays that will last a week, in preparation for this there will be weekend camps under canvas throughout the year. For this your scout will need a Camping mat and a sleeping bag. It is also a good idea for your Scout to have a few other essentials such as sturdy footwear, waterproofs etc
 
 If you are unsure about what to buy come and have a chat to one of the leaders and we can show you what equipment we recommend and where the best places to buy from are so you get the best value for money.
@@ -86,7 +86,7 @@ If you are unsure about what to buy come and have a chat to one of the leaders a
 Each year we will plan fundraising to lower the cost of running out camps and trips. It is essential that as many Scouts and parents as possible support these events. This will mean we raise as much funds as possible to make our activities more affordable for everyone.
 
 
-## Our Scout Leaders
+# Our Scout Leaders
 
 Scott Guymer      Scout Section Leader  
 Marie Heap        Assistant Section Leader  
