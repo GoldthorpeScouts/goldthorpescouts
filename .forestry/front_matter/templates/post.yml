@@ -11,14 +11,21 @@ fields:
   label: Date
   type: text
   hidden: false
-  default: 
+  default: ''
+  description: The date this post relates to.
 - name: draft
   label: Draft
   type: boolean
   hidden: false
   default: true
+  description: Page will be hidden from visitors if it is a draft
 - name: feature_image
   label: Feature image
   type: text
   hidden: false
-  default: 
+  default: ''
+  description: Optional featured image to show at the top of this page.
+- type: tag_list
+  label: Tags
+  name: tags
+  description: Tags for this page
