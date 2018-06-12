@@ -74,7 +74,7 @@ googleAnalytics = ""
   title = "6th Barnsley (Goldthorpe)"
   subtitle = "Everyday adventure for young people with an award winning Scout Group"
   author = "Goldthorpe Scouts"
-  formspree_email="info@goldthorpescouts.org.uk"
+  formspree_email="contact@goldthorpescouts.org.uk"
 
   [params.contact]
     #Use this section to automate contact form.
