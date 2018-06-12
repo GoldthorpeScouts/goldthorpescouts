@@ -7,7 +7,7 @@ enableEmoji = true
 customCSS = ["", ""]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-120779958-1"
 
 [taxonomies]
   tag = "tags"
