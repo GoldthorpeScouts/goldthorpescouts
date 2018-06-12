@@ -16,10 +16,8 @@
 		<!-- OpenStreetMaps -->
 		{{ printf "<link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@%s/dist/leaflet.css\" integrity=\"%s\" crossorigin=\"\"/>" $css.leaflet.version $css.leaflet.integrity | safeHTML }}
 		{{` <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->` | safeHTML }}
-		<link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/main.css?{{ readFile "static/css/main.css" | md5 }}" />    
 		{{- range .Site.Params.Assets.customCSS -}}
     	<link rel='stylesheet' href='{{ . | absURL }}'>
     {{- end -}}
-    
-    {{ .GitInfo.AbbreviatedHash }}
 	</head>
