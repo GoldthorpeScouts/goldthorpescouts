@@ -5,7 +5,6 @@ feature_image: "/img/canoes-jpg.jpg"
 type: page
 
 ---
-
 # Subs
 
 Scouting is one of the best value for money activities your child can do with their spare time. They will make friends and learn skills they will call on for the rest of their life.
@@ -50,4 +49,4 @@ As leaders we reserve the right to refuse a child entry to camp / days  out if w
 
 # Volunteering
 
-All parents are welcome to sign up as occasional helpers and get involved, (subject to DBS / CRB check). If you have a particular skill or hobby that you would be prepared to share with the Group then please do let us know and we'll consider how you could help as an activity instructor.  Of course, if there are parents who would like to get involved on a more regular basis, then we'd love to have that help and support. It’s not all working directly with the scouts, there are plenty of back room type jobs that always need doing like gardening, keeping the accounts, fundraising and managing our communications.
+All parents are welcome to sign up as occasional helpers and get involved, (subject to DBS check). If you have a particular skill or hobby that you would be prepared to share with the Group then please do let us know and we'll consider how you could help as an activity instructor.  Of course, if there are parents who would like to get involved on a more regular basis, then we'd love to have that help and support. It’s not all working directly with the scouts, there are plenty of back room type jobs that always need doing like gardening, keeping the accounts, fundraising and managing our communications.
