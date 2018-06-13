@@ -3,8 +3,24 @@ title: Parents
 date: 2018-04-30 14:27:13 +1000
 feature_image: "/img/canoes-jpg.jpg"
 type: page
+subtitle: Information for parents of young people at Goldthorpe Scouts
 
 ---
+
+Parents are really important to us at Goldthorpe Scouts and we love to hear from you about what we are doing well and even more importnaly what we can do better. Its important we have good communication between the leaders and parents to make sure you know exactly what is going on and feel as included in scouting as your young person.
+
+To make sure we are keeping you up to date you will receive frequent sms messages and emails from the section leaders but alsways feel free to grab one of us at the end of a session if you have any questions or concerns at all.
+
+# Keeping you informed
+
+At Goldthorpe Scouts we use a system called My.SCOUT to keep you informed of all the data we hold about you and you young person and give you the ability to update it as needed to make sure we have all the right information.
+
+On this system you can also see things like which badges your scout has been awarded and even how close they are to acheiving their next badge. You will also be able to see details of upcoming meetings and what is involved with them.
+
+You will receive an email from your section leader with details of how to sign up and log into the system.
+
+[You can access My.SCOUT here](https://www.onlinescoutmanager.co.uk/parents/)
+
 # Subs
 
 Scouting is one of the best value for money activities your child can do with their spare time. They will make friends and learn skills they will call on for the rest of their life.
@@ -17,21 +33,30 @@ Subs is a yearly cost of £144 that is split into 12 monthly payments. This mean
 
 {{< figure src="/uploads/pie_chart.jpg" width="100%" >}}
 
-## Buildings Payments
+<table>
+<tr>
+<th>Buildings Payments</th>
+<td>This money goes to pay for the Scout Hut itself. For the upkeep and other bills such as services, insurance and other costs.
+</td>
+</tr>
 
-This money goes to pay for the Scout Hut itself. For the upkeep and other bills such as services, insurance and other costs.
+<tr>
+<th>Section Payment</th>
+<td>This money goes to the Scout section and is used to pay for the materials needed to run the programme, and pay for the badges.</td>
+</tr>
 
-## Section Payment
+<tr>
+<th>Capitation</th>
+<td>This money goes to pay for each Scout's membership of the Scouting movement. It also more importantly pays for the insurance we get from UK Scouting, and helps fund the training that each Leader receives, all helping the Scouts provide a better program.</td>
+</tr>
 
-This money goes to the Scout section and is used to pay for the materials needed to run the programme, and pay for the badges.
+<tr>
+<th>Group Funds</th>
+<td>This money is put into group funds which is used for a range of reasons such as purchasing shared equipment or funding larger events and activities.  It also covers the cost of the groups insurance for our equipment, covering the tents, and other camping equipment.</td>
+</tr>
 
-## Capitation
 
-This money goes to pay for each Scout's membership of the Scouting movement. It also more importantly pays for the insurance we get from UK Scouting, and helps fund the training that each Leader receives, all helping the Scouts provide a better program.
-
-## Group Funds
-
-This money is put into group funds which is used for a range of reasons such as purchasing shared equipment or funding larger events and activities.  It also covers the cost of the groups insurance for our equipment, covering the tents, and other camping equipment.
+</table>
 
 # Medication and Medical Conditions
 
