@@ -15,23 +15,21 @@ Subs is a yearly cost of £144 that is split into 12 monthly payments. This mean
 
 ## Where does your money go?
 
-{{< figure src="/img/subs_breakdown.png" class="align-center" >}}
+![](/uploads/pie_chart.jpg)Buildings Payments
 
-## Buildings Payments
-
-This money goes to pay for the Scout hut itself. For the upkeep and other bills such as services, insurance and other costs.
+This money goes to pay for the Scout Hut itself. For the upkeep and other bills such as services, insurance and other costs.
 
 ## Section Payment
 
-This money goes to the Scout section and is used to pay for the materials needed to run the programme.
+This money goes to the Scout section and is used to pay for the materials needed to run the programme, and pay for the badges.
 
 ## Capitation
 
-This money goes to pay for each Scout's membership of the scouting movement. And also pays for the insurance we get from UK Scouting.
+This money goes to pay for each Scout's membership of the Scouting movement. It also more importantly pays for the insurance we get from UK Scouting, and helps fund the training that each Leader receives, all helping the Scouts provide a better program.
 
 ## Group Funds
 
-This money is put into group funds which is used for a range of reasons such as purchasing shared equipment or funding larger events and activities.
+This money is put into group funds which is used for a range of reasons such as purchasing shared equipment or funding larger events and activities.  It also covers the cost of the groups insurance for our equipment, covering the tents, and other camping equipment.
 
 # Medication and Medical Conditions
 
