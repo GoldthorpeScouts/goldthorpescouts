@@ -18,7 +18,7 @@ The Cub Pack is the second section of the Scout Group following on from Beavers.
 
 # Structure
 
-A Cub  Pack is usually organised into small groups called Sixes, each headed up my an older Cub called a Sixer, and often with a Seconder as well.  Sixes can be used in a number of ways to facilitate the organisation of the Cub Scout Pack.  They may provide a 'home' area for Cub Scouts to gather at points at the start, during or at the end of the Pack meeting
+A Cub  Pack is usually organised into small groups called Sixes, each headed up by an older Cub called a Sixer, and often with a Seconder as well.  Sixes can be used in a number of ways to facilitate the organisation of the Cub Scout Pack.  They may provide a 'home' area for Cub Scouts to gather at points at the start, during or at the end of the Pack meeting
 
 # Structure
 
