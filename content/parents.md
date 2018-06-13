@@ -15,7 +15,7 @@ Subs is a yearly cost of £144 that is split into 12 monthly payments. This mean
 
 ## Where does your money go?
 
-{{< figure src="/uploads/pie_chart.jpg" with="100%" >}}
+{{< figure src="/uploads/pie_chart.jpg" width="100%" >}}
 
 ## Buildings Payments
 
