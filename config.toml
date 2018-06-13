@@ -1,186 +1,132 @@
 baseURL = "https://scouts.scottguymer.co.uk/"
-languageCode = "en-gb"
-title = "Goldthorpe Scouts"
-theme = "alpha-church"
-
-enableEmoji = true
 customCSS = ["", ""]
+enableEmoji = true
 enableGitInfo = true
-
-# Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-120779958-1"
-
-[taxonomies]
-  tag = "tags"
-  series = "series"
-
-#This theme can generate a multi-level theme.
-#Use the weight= to specify the order of menu items, and the parent= to create a submenu item.
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-  [[menu.main]]
-    name = "Our Sections"
-    weight = 3
-
-  [[menu.main]]
-    name = "Beavers"
-    url = "/beavers"
-    parent= "Our Sections"
-    weight = 3
- 
-  [[menu.main]]
-    name = "Cubs"
-    url = "/cubs"
-    parent= "Our Sections"
-    weight = 4
-
-  [[menu.main]]
-    name = "Scouts"
-    url = "/scouts"
-    parent= "Our Sections"
-    weight = 5
-  
-  [[menu.main]]
-    name = "Leaders"
-    url = "/leader"
-    parent= "Our Sections"
-    weight = 6
-
-  [[menu.main]]
-    name = "Parents"
-    url = "/parents"
-    weight = 6
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    weight = 7
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 8
-
-# Paramaters for the whole site
+languageCode = "en-gb"
+theme = "alpha-church"
+title = "Goldthorpe Scouts"
+[[menu.main]]
+name = "Parents"
+url = "/parents"
+weight = 4
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Leaders"
+parent = "Our Sections"
+url = "/leaders"
+weight = 4
+[[menu.main]]
+name = "Scouts"
+parent = "Our Sections"
+url = "/scouts"
+weight = 3
+[[menu.main]]
+name = "Cubs"
+parent = "Our Sections"
+url = "/cubs"
+weight = 2
+[[menu.main]]
+name = "Beavers"
+parent = "Our Sections"
+url = "/beavers"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 5
+[[menu.main]]
+name = "Our Sections"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
 [params]
-  title = "6th Barnsley (Goldthorpe)"
-  subtitle = "Everyday adventure for young people with an award winning Scout Group"
-  author = "Goldthorpe Scouts"
-  formspree_email="contact@goldthorpescouts.org.uk"
-
-  [params.contact]
-    #Use this section to automate contact form.
-    #Set service to either "netlify" or "formspree"
-    #For formspree, please setup an account at https://formspree.io/
-    #For netlify, please read https://www.netlify.com/docs/form-handling/
-    #
-    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
-    #If you use formspree, you'll need to set your formspree email address.
-    service = "formspree"
-    # confirm_page = "/contact_thanks"    
-
-  #Paramaters for the home/landing page
-  [params.landing]
-
-    [params.landing.banner]
-      image = "img/banner.jpg"
-
-      [[params.landing.banner.button]]
-        url = "/contact"
-        text = "Get in touch"
-        type = "special"
-
-        [[params.landing.banner.button]]
-        url = "/about"
-        text = "Find out more"
-
-    #Details for the box below the banner
-    [params.landing.services]
-      title = "Everyday Adventure"
-      text = "Welcome to Goldthorpe Scouts! We are a local Scout group run by volunteers for young people aged from 6 to 14. We are passionate about scouting and want to make sure that every child gets the opportunity for adventure. <br /><br /> Our group is split into sections for different age groups. You can read more about them below."
-      map_location = "Lockwood Road, Goldthorpe"
-
-    [params.landing.feature]
-      image = "/img/sunset_scouts.jpg"
-
-    [params.landing.feature_icons]
-      #These feature icons look best if there's an even number of them.
-      enable = true
-
-      #Accent is a colour defined in the CSS file. Choose between 1 and 5
-      [[params.landing.feature_icons.tile]]
-        img = "/img/logos/beavers-logo-blue-png.png"
-        url = "/beavers"
-        title = "Beavers"
-        text = "Our youngest section from 6 to 8 1/2"
-
-      [[params.landing.feature_icons.tile]]
-        img = "/img/logos/cubs-logo-green-png.png"
-        url = "/cubs"
-        title = "Cubs"
-        text = "Our growing young people from 8 to 10 1/2"
-
-      [[params.landing.feature_icons.tile]]
-        img = "/img/logos/scouts-logo-green-png.png"
-        url = "/scouts"
-        title = "Scouts"
-        text = "Our oldest adventureres from 10 1/2 to 14"
-
-      [[params.landing.feature_icons.tile]]
-        img = "/img/group_badge.png"
-        url = "/apply"
-        title = "Join Us"
-        text = "Apply to join the fun!"
-
-    [params.landing.feature_images]
-      #These feature images look best if there's an even number of them.
-      enable = true
-
-      [[params.landing.feature_images.tile]]
-        image = "img/pioneering.jpg"
-        title = "About Us"
-        text = "Want to learn more?"
-        url = "/about"
-        button_text = "Learn more"
-
-      [[params.landing.feature_images.tile]]
-        image = "img/den2.jpg"
-        title = "Join in the adventure"
-        text = "Want your child to do more during the week?"
-        url = "/apply"
-        button_text="Join our group today!"
-
-    [params.landing.CTA]
-      heading = "Get in touch!"
-      message = "We'd love to hear from you."
-
-    [params.footer]
-      copyright = "[&copy; Goldthorpe Scouts 2018](http://creativecommons.org/publicdomain/zero/1.0/)"
-
-    [[params.links]]
-      service = "Twitter"
-      icon = "fa-twitter"
-      icon_pack = "fab"
-      link = "//twitter.com/goldthorpescout"
-
-    [[params.links]]
-      service = "Facebook"
-      icon = "fa-facebook"
-      icon_pack = "fab"
-      link = "//facebook.com/goldthorpescouts"
-
-
-    [[params.links]]
-      service = "Full RSS Feed"
-      icon = "fa-rss"
-      icon_pack = "fas"
-      link = "/index.xml"
+author = "Goldthorpe Scouts"
+formspree_email = "contact@goldthorpescouts.org.uk"
+subtitle = "Everyday adventure for young people with an award winning Scout Group"
+title = "6th Barnsley (Goldthorpe)"
+[params.contact]
+service = "formspree"
+[params.footer]
+copyright = "[&copy; Goldthorpe Scouts 2018](http://creativecommons.org/publicdomain/zero/1.0/)"
+[params.landing.CTA]
+heading = "Get in touch!"
+message = "We'd love to hear from you."
+[params.landing.banner]
+image = "img/banner.jpg"
+[[params.landing.banner.button]]
+text = "Get in touch"
+type = "special"
+url = "/contact"
+[[params.landing.banner.button]]
+text = "Find out more"
+url = "/about"
+[params.landing.feature]
+image = "/img/sunset_scouts.jpg"
+[params.landing.feature_icons]
+enable = true
+[[params.landing.feature_icons.tile]]
+img = "/img/logos/beavers-logo-blue-png.png"
+text = "Our youngest section from 6 to 8 1/2"
+title = "Beavers"
+url = "/beavers"
+[[params.landing.feature_icons.tile]]
+img = "/img/logos/cubs-logo-green-png.png"
+text = "Our growing young people from 8 to 10 1/2"
+title = "Cubs"
+url = "/cubs"
+[[params.landing.feature_icons.tile]]
+img = "/img/logos/scouts-logo-green-png.png"
+text = "Our oldest adventureres from 10 1/2 to 14"
+title = "Scouts"
+url = "/scouts"
+[[params.landing.feature_icons.tile]]
+img = "/img/group_badge.png"
+text = "Apply to join the fun!"
+title = "Join Us"
+url = "/apply"
+[params.landing.feature_images]
+enable = true
+[[params.landing.feature_images.tile]]
+button_text = "Learn more"
+image = "img/pioneering.jpg"
+text = "Want to learn more?"
+title = "About Us"
+url = "/about"
+[[params.landing.feature_images.tile]]
+button_text = "Join our group today!"
+image = "img/den2.jpg"
+text = "Want your child to do more during the week?"
+title = "Join in the adventure"
+url = "/apply"
+[params.landing.services]
+map_location = "Lockwood Road, Goldthorpe"
+text = "Welcome to Goldthorpe Scouts! We are a local Scout group run by volunteers for young people aged from 6 to 14. We are passionate about scouting and want to make sure that every child gets the opportunity for adventure. <br /><br /> Our group is split into sections for different age groups. You can read more about them below."
+title = "Everyday Adventure"
+[[params.links]]
+icon = "fa-twitter"
+icon_pack = "fab"
+link = "//twitter.com/goldthorpescout"
+service = "Twitter"
+[[params.links]]
+icon = "fa-facebook"
+icon_pack = "fab"
+link = "//facebook.com/goldthorpescouts"
+service = "Facebook"
+[[params.links]]
+icon = "fa-rss"
+icon_pack = "fas"
+link = "/index.xml"
+service = "Full RSS Feed"
+[taxonomies]
+series = "series"
+tag = "tags"
