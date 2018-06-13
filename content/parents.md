@@ -15,7 +15,7 @@ Subs is a yearly cost of £144 that is split into 12 monthly payments. This mean
 
 ## Where does your money go?
 
-![](/uploads/pie_chart.jpg)![](/uploads/pie_chart.jpg)Buildings Payments
+![](/uploads/pie_chart.jpg)Buildings Payments
 
 This money goes to pay for the Scout Hut itself. For the upkeep and other bills such as services, insurance and other costs.
 
