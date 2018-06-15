@@ -91,9 +91,9 @@ title = "Scouts"
 url = "/scouts"
 [[params.landing.feature_icons.tile]]
 img = "/img/group_badge.png"
-text = "Apply to join the fun!"
+text = "Join the fun!"
 title = "Join Us"
-url = "/apply"
+url = "/join"
 [params.landing.feature_images]
 enable = true
 [[params.landing.feature_images.tile]]
@@ -107,7 +107,7 @@ button_text = "Join our group today!"
 image = "img/den2.jpg"
 text = "Want your child to do more during the week?"
 title = "Join in the adventure"
-url = "/apply"
+url = "/join"
 [params.landing.services]
 map_location = "Lockwood Road, Goldthorpe"
 text = "Welcome to Goldthorpe Scouts! We are a local Scout group run by volunteers for young people aged from 6 to 14. We are passionate about scouting and want to make sure that every child gets the opportunity for adventure. <br /><br /> Our group is split into sections for different age groups. You can read more about them below."
