@@ -20,8 +20,6 @@ The Cub Pack is the second section of the Scout Group following on from Beavers.
 
 A Cub  Pack is usually organised into small groups called Sixes, each headed up by an older Cub called a Sixer, and often with a Seconder as well.  Sixes can be used in a number of ways to facilitate the organisation of the Cub Scout Pack.  They may provide a 'home' area for Cub Scouts to gather at points at the start, during or at the end of the Pack meeting
 
-# Structure
-
-During their time in the Pack, Cub Scouts will get a chance to try a wide range of different activities as well as going on trips, days out, and on camps.  Participaton and personal development, rather than meeting set standrads, is the key approach, and there are a range of badges and challenge awards that Cub Scouts can gain to recognise their achievements.
+During their time in the Pack, Cub Scouts will get a chance to try a wide range of different activities as well as going on trips, days out, and on camps.  Participaton and personal development, rather than meeting set standards, is the key approach, and there are a range of badges and challenge awards that Cub Scouts can gain to recognise their achievements.
 
 Cubs runs every Thursday during term time only between 6:30pm and 8:00pm
