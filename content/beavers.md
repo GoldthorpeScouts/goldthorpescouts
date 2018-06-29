@@ -1,7 +1,7 @@
 ---
 title: Beavers
 subtitle: Young people from 6 to 8 and a half
-date: 2018-05-01 07:39:12 +1000
+date: 2018-04-30 21:39:12 +0000
 feature_image: "/img/beaver-running-jpg.jpg"
 tags:
 - beavers
@@ -20,7 +20,7 @@ A Beaver Colony may be organised into smaller groups called Lodges. Lodges can b
 
 # Our Beaver Leaders
 
-| Mame | Leader Name | Position |
+| me | Leader Name | Position |
 | --- | --- | --- |
 | Sarah Scothern | Snowy | Beaver Section Leader |
 | Lauren Parr | Sunny | Assistant Section Leader |
