@@ -1,4 +1,4 @@
-baseURL = "https://scouts.scottguymer.co.uk/"
+baseURL = "https://www.goldthorpescouts.org.uk/"
 customCSS = ["", ""]
 enableEmoji = true
 enableGitInfo = true
