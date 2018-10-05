@@ -1,4 +1,5 @@
 ---
+label: Post
 hide_body: false
 is_partial: false
 fields:
@@ -29,3 +30,6 @@ fields:
   label: Tags
   name: tags
   description: Tags for this page
+pages:
+- content/posts/welcome-to-our-new-site.md
+- content/posts/style-guide.md

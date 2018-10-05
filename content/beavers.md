@@ -25,4 +25,4 @@ A Beaver Colony may be organised into smaller groups called Lodges. Lodges can b
 | Sarah Scothern | Snowy | Beaver Section Leader |
 | Lauren Parr | Sunny | Assistant Section Leader |
 
-Beavers runs every Thursday between 5:30pm TO 6:45pm during school term time
+Beavers runs every Tuesday between 6:00pm and 7:15pm during school term time
