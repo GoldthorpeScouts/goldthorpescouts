@@ -1,12 +1,11 @@
 ---
 title: Parents
-date: 2018-04-30 14:27:13 +1000
+date: 2018-04-30 04:27:13 +0000
 feature_image: "/img/canoes-jpg.jpg"
 type: page
 subtitle: Information for parents of young people at Goldthorpe Scouts
 
 ---
-
 Parents are really important to us at Goldthorpe Scouts and we love to hear from you about what we are doing well and even more importnaly what we can do better. Its important we have good communication between the leaders and parents to make sure you know exactly what is going on and feel as included in scouting as your young person.
 
 To make sure we are keeping you up to date you will receive frequent sms messages and emails from the section leaders but alsways feel free to grab one of us at the end of a session if you have any questions or concerns at all.
@@ -27,7 +26,7 @@ Scouting is one of the best value for money activities your child can do with th
 
 Subs are the lifeblood of our scouting programme and they enable us to deliver a fun and diverse programme. There are a lot of costs involved in running a Scout troop from insurance to our membership of the Scout movement.
 
-Subs is a yearly cost of £144 that is split into 12 monthly payments. This means that subs are paid throughout the year and not just at each meeting. After your first few meetings and once you are sure that your Scout wants to continue subs are paid by BT MyDonate system. This system is much easier for yourself and the leaders involved as no cash has to change hands and no banking arrangements need to be made. We even get 25% extra on top as the Bt MyDonate system allows us to claim gift aid if you are a taxpayer.
+Subs is a yearly cost of £144 that is split into 12 monthly payments. This means that subs are paid throughout the year and not just at each meeting. After your first few meetings and once you are sure that your Scout wants to continue subs are paid by the My.Scout system. This system is much easier for yourself and the leaders involved as no cash has to change hands and no banking arrangements need to be made. We even get 25% extra on top as the MyScout system allows us to claim gift aid if you are a taxpayer.
 
 ## Where does your money go?
 
@@ -54,7 +53,6 @@ Subs is a yearly cost of £144 that is split into 12 monthly payments. This mean
 <th>Group Funds</th>
 <td>This money is put into group funds which is used for a range of reasons such as purchasing shared equipment or funding larger events and activities.  It also covers the cost of the groups insurance for our equipment, covering the tents, and other camping equipment.</td>
 </tr>
-
 
 </table>
 
