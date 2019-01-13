@@ -1,6 +1,6 @@
 ---
 title: Parents
-date: 2018-04-30 04:27:13 +0000
+date: 2019-01-13 00:00:00 +0000
 feature_image: "/img/canoes-jpg.jpg"
 type: page
 subtitle: Information for parents of young people at Goldthorpe Scouts
