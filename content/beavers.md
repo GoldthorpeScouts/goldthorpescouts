@@ -1,6 +1,6 @@
 ---
 title: Beavers
-subtitle: Young people from 6 to 8 and a half
+subtitle: Young people from 6 to 8
 date: 2018-04-30 21:39:12 +0000
 feature_image: "/img/beaver-running-jpg.jpg"
 tags:
@@ -20,9 +20,9 @@ A Beaver Colony may be organised into smaller groups called Lodges. Lodges can b
 
 # Our Beaver Leaders
 
-| me | Leader Name | Position |
-| --- | --- | --- |
-| Sarah Scothern | Snowy | Beaver Section Leader |
-| Lauren Parr | Sunny | Assistant Section Leader |
+| me  | Position |
+| --- | --- |
+| Vicky Fairclough  | Beaver Section Leader |
+| Marie Davis  | Assistant Section Leader |
 
 Beavers runs every Tuesday between 6:00pm and 7:15pm during school term time
