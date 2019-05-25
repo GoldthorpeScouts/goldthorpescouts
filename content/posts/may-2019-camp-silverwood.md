@@ -1,6 +1,5 @@
 +++
 date = "30th May 2019"
-draft = true
 feature_image = ""
 tags = []
 title = "May 2019 Camp - Silverwood"
