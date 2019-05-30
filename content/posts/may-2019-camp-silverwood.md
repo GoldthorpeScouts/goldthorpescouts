@@ -9,7 +9,7 @@ On the 30th May 2019, Goldthorpe Scouts and Cubs are attending a Group Camp.  Ke
 
 ![](http://www.silverwoodcamp.org.uk/files/stacks-image-dbc0253-598x224.jpg)
 
-June 2019 Group Camp Program
+May 2019 Group Camp Program
 
 **Thursday:**
 
