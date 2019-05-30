@@ -68,3 +68,15 @@ Tent Inspection!
 10am pack-up site
 
 1pm Parents arrive to pick up Scouts and Cubs.
+
+**Thursday**
+
+So first evening has gone very well, lots of wide games, running around, and collecting wood.  We have a lot of wood, think we’ll start the everlasting fire tomorrow morning. 
+
+We have set up 4 scout tents, 3 large cub tents, a mess tent, a games tent and the most important ones the leaders tents.  
+
+The kids have all enjoyed hot choc and muffins, and now after a little settling down gone to bed. 
+
+Many thanks to the parents who have helped drop off their cubs, scouts today, and set up camp. 
+
+Wonder who will be the first ones up, who ever it is please put the hot water on for the coffee... tomorrow is going to be a long day..
