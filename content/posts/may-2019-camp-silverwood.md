@@ -71,12 +71,32 @@ Tent Inspection!
 
 **Thursday**
 
-So first evening has gone very well, lots of wide games, running around, and collecting wood.  We have a lot of wood, think we’ll start the everlasting fire tomorrow morning. 
+So first evening has gone very well, lots of wide games, running around, and collecting wood.  We have a lot of wood, think we’ll start the everlasting fire tomorrow morning.
 
-We have set up 4 scout tents, 3 large cub tents, a mess tent, a games tent and the most important ones the leaders tents.  
+We have set up 4 scout tents, 3 large cub tents, a mess tent, a games tent and the most important ones the leaders tents.
 
-The kids have all enjoyed hot choc and muffins, and now after a little settling down gone to bed. 
+The kids have all enjoyed hot choc and muffins, and now after a little settling down gone to bed.
 
-Many thanks to the parents who have helped drop off their cubs, scouts today, and set up camp. 
+Many thanks to the parents who have helped drop off their cubs, scouts today, and set up camp.
 
 Wonder who will be the first ones up, who ever it is please put the hot water on for the coffee... tomorrow is going to be a long day..
+
+**Friday**
+
+Well it was an early start... but the kids all made it through the night.. I was only woken up once.. 
+
+Breakfast of sausage, bacon and eggs prepared by the scouts.  Filled a whole, then tent inspection.  There are some differences between cub/scout tidy to a leaders version of tidy..  to say they failed camp inspection is an understatement. May be tomorrow will be better…
+
+first activity of the day was bug hunting.  Some very good finds, and interesting ways to capture bugs. Then we moved onto water powered rockets.  Genius designs made by the cubs and scouts, then lift off.   Some good examples of water powered rockets to work towards their science badges.
+
+lunch was sandwiches, cheese or ham..... or crisp sandwiches..
+
+after lunch  was free time,  these kids know how to make the most of free time.  Collecting wood, a lot of wood, so we decided to set a camp fire going for the remainder of the camp, relight the embers in the morning.
+
+then the pinnacle of the camp, water fight capture the flag. Water balloons (We’ve picked up the plastic) water pistols.  I don’t know who got drenched.  Me, or the kids..
+
+evening meal of pasta and bolognese and garlic bread on the fire.  
+
+Another camp fire, with some of the kids favourite songs, ranging from Billy Ray Cyrus to Scott Joplin.  
+
+Some more free time (wood collecting) and then wind down to bed with some hot chocolate.   First ones to sleep were the last ones to bed last night.   So may be tomorrow we have some not so tired cubs and scouts.
