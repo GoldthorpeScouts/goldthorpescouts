@@ -113,4 +113,18 @@ Once back at the camp we started the fire again, put some coal on and got it bac
 
 A bit of free time, and some of the Cubs (and Scouts) had a little snooze, it was back out to find more wood, and Den building. An amazing design and plenty of helpers to build one big old den. 
 
-BBQ for tea, with hot dogs and burgers.  the fire was still going from lunch time, the burgers were cooked superbly, and the hot dogs warmed up, bit of tomato ketchup and all scoffed down.  Back into the woods for some more den building, and a rope swing, while the fire fizzed out to embers.  however the amount of wood we had on the fire.  it may take some time. 
+BBQ for tea, with hot dogs and burgers.  the fire was still going from lunch time, the burgers were cooked superbly, and the hot dogs warmed up, bit of tomato ketchup and all scoffed down.  Back into the woods for some more den building, and a rope swing, while the fire fizzed out to embers.  however the amount of wood we had on the fire.  it may take some time.
+
+As dusk falls, the Scouts and Cubs come back to make Chocolate Bananas. These go on the fire to melt.. The kids then pull up the chairs and start to relax.  Until S'More Time!!  then it's marshmallows and digestives and tried Jaffa Cakes and marshmallows. Next time with it being so dark, we need to find a away to get more light on those dark evenings...  Who knows what's being eaten.. is it a S'More  with Digestives or a  S'More with bugs!
+
+**Sunday**
+
+So today is pack up day, a sad day for those who love camping.  Also for those leaders who have to constantly push the Cubs and Scouts to tidy up, folder her, pack that...  But surprisingly, before breakfast (this was being cooked by adult helpers) we had all but 2 tents down (4 adults, 5 2 man tents) and an 8 man.  We thought we were on for a winner, the kids would have some free time, the van would be loaded on time.  Breakfast served, more Sausages, and cereals.  yum, yum.  Oh my, then the hard work started.  a few carrots, and sticks of encouragement and we were back on track. Final two tents down, all before the rain started, we had a little flurry of ran, but we had the added bonus of the rain holding off and the sun coming out for the rest of the morning while we packed up the mess tent, a fantastic tent, lots of room, and ideal for cooking.  The van was loaded on time, and sent back to Goldthorpe, while the Cubs and Scouts did a littler sweep of the camp site, and then had a Scouts Own, a thought and reflection of the Camp, what was Good (Water Fight), Bad (Hike), what to do next time (More Den making) and what not to do (absolutely nothing)
+
+The Kids were amazing this Camp, each one pushed them selves, from actually coming on Camp (some had never slept away from their parents) going on a hike (that they have never walked that far), eating new food, or being a fire starter (in a good way).  We have some fantastic Cubs in training for a Seconder or Sixer position. Like wise for the Scouts.  Some decisions to make...
+
+Scout Camps are only possible with the help of parents to supplement the leaders experience, both who give up their time.  For parents any help is always appreciated from coming for a few hours, or spending the night, but what we love the most is passing on their experiences to the Cubs and Scouts.
+
+I'd like to thank those parents who helped with this camp, and I hope that they can continue to contribute in such an amazing way.
+
+It's an early night from me, and an early night from the other leaders who have all had an amazing weekend.
