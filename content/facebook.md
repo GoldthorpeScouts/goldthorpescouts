@@ -1,6 +1,5 @@
 +++
 date = "29th May 2019"
-draft = true
 feature_image = ""
 subtitle = ""
 tags = []
