@@ -4,9 +4,6 @@ feature_image = ""
 subtitle = ""
 tags = []
 title = "Facebook"
-[menu.main]
-name = "Facebook Feed"
-weight = 8
 
 +++
 <div id="fb-root"></div>
