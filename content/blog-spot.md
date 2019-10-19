@@ -7,5 +7,5 @@ title = "Blog Spot"
 
 +++
 <script>
-src="http://goldthorpescoutgroup.blogspot.com/feeds/posts/default?alt=rss
+src="https://www.googleapis.com/blogger/v3/blogs/byurl?url= https://6thbarnsley.blogspot.com
 </script>
