@@ -6,4 +6,6 @@ tags = []
 title = "Blog Spot"
 
 +++
-<script src="goldthorpescoutgroup.blogspot.com&showtitle=false&type=js"></script>
+<script>
+src="http://goldthorpescoutgroup.blogspot.com/feeds/posts/default?alt=rss
+</script>
