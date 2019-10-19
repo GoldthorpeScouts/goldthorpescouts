@@ -13,7 +13,7 @@ title = "Blog Spot"
 .frame-area {
   display: block;
   width: 100%;  /* RESPONSIVE WIDTH */
-  max-width: 400px;
+  max-width: 800px;
   height: 300px;
   overflow: auto;  /* EDIT TO hidden FOR NO SCROLLBAR */
   border: #999999 1px solid;
