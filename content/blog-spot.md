@@ -6,6 +6,4 @@ tags = []
 title = "Blog Spot"
 
 +++
-<script>
-src="https://www.googleapis.com/blogger/v3/blogs/byurl?url= https://6thbarnsley.blogspot.com
-</script>
+https://www.googleapis.com/blogger/v3/blogs/byurl?url=https://6thbarnsley.blogspot.com
