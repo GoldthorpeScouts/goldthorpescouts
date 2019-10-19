@@ -6,5 +6,6 @@ tags = []
 title = "Blog Spot"
 
 +++
-
-<iframe src="https://www.googleapis.com/blogger/v3/blogs/byurl?url=https://6thbarnsley.blogspot.com></iframe>
+<iframe src="https://6thbarnsley.blogspot.com">
+  <p>Your browser does not support iframes.</p>
+</iframe>
