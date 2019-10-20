@@ -35,7 +35,7 @@ name = "Our Sections"
 weight = 3
 [[menu.main]]
 name = "Blog"
-url = "/posts"
+url = "https://6thbarnsley.blogspot.com"
 weight = 5
 [[menu.main]]
 name = "Contact"
