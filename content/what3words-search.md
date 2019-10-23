@@ -3,7 +3,6 @@ audio = ""
 audio_duration = ""
 audio_size = ""
 date = ""
-draft = true
 feature_image = ""
 passage = ""
 preachers = []
