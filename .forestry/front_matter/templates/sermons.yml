@@ -62,3 +62,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/what3words-search.md
