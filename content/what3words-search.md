@@ -3,7 +3,7 @@ audio = ""
 audio_duration = ""
 audio_size = ""
 date = ""
-feature_image = ""
+feature_image = "what3words-logo-stacked-WHITE-styleguide-PNG.png"
 passage = ""
 preachers = []
 series = []
@@ -31,5 +31,3 @@ Scouts What2Words
 
 <what3words-address words="///fund.plantings.perplexed"/>
 <script src="https://assets.what3words.com/sdk/v3/what3words.js"></script>
-
-
