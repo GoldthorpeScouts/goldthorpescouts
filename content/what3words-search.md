@@ -13,5 +13,5 @@ title = "What3Words Search"
 type = ""
 
 +++
-    <what3words-address words="daring.lion.race"/>
+    <what3words-address words="///fittingly.waving.retail"/>
     <script src="https://assets.what3words.com/sdk/v3/what3words.js"></script>
