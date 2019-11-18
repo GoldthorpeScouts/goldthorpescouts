@@ -8,16 +8,16 @@ title = "Useful Links"
 weight = 7
 
 +++
-## For new Beaver, Cub, and Scouts please use the below form to provide Goldthorpe Scouts with details, and Contacts
+> ## For new Beaver, Cub, and Scouts please use the below form to provide Goldthorpe Scouts with details, and Contacts
 
 ### [Sign Up Your Young Person](https://forms.gle/bT6n8iDEXL1UasFq9)
 
-## For New Adults (we always appreciate help) please print out and fill in this form
+> ## For New Adults (we always appreciate help) please print out and fill in this form
 
 ### 
 [New members](https://members.scouts.org.uk/documents/GDPR/Forms/VO%20Adult%20Information%20Form%20Jan2019_Print%20Friendly%20-%20final.pdf)
 
-## **Section Welcome Packs, to print off for reference.**
+> ## **Section Welcome Packs, to print off for reference.**
 
 ### Beavers Welcome Pack (Coming Soon)
 
