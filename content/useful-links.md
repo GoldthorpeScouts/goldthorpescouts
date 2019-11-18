@@ -19,7 +19,7 @@ weight = 7
 
 > ## **Section Welcome Packs, to print off for reference.**
 
-### Beavers Welcome Pack (Coming Soon)
+### [Beavers Welcome Pack](https://drive.google.com/file/d/1ovZWSE78vXcjLT5eEIYMbYqy0A_PRd4o/view?usp=sharing)
 
 ### Cubs Welcome Pack (Coming Soon)
 
