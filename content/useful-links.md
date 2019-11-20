@@ -8,20 +8,22 @@ title = "Useful Links"
 weight = 7
 
 +++
-> ## For new Beaver, Cub, and Scouts please use the below form to provide Goldthorpe Scouts with details, and Contacts
+For new Beavers, Cubs, and Scouts please use the below form to provide Goldthorpe Scouts with details, and Parent Contacts
 
-### [Sign Up Your Young Person](https://forms.gle/bT6n8iDEXL1UasFq9)
+[Sign Up Your Young Person](https://docs.google.com/forms/d/e/1FAIpQLScCcQNmy439oxpkOgqyhspoPFk5pc_OMJQjKpfWBUNJ3hbXKg/viewform?usp=sf_link)
 
-> ## For New Adults (we always appreciate help) please print out and fill in this form
-
-### 
+For New Adults (we always appreciate help) please print out and fill in this form, and pass it to your Childs leader
 
 [New members](https://members.scouts.org.uk/documents/GDPR/Forms/VO%20Adult%20Information%20Form%20Jan2019_Print%20Friendly%20-%20final.pdf)
 
-> ## **Section Welcome Packs, to print off for reference.**
+Section Welcome Packs, to print off for reference.
 
-### [Beavers Welcome Pack](https://drive.google.com/file/d/1ovZWSE78vXcjLT5eEIYMbYqy0A_PRd4o/view?usp=sharing)
+[Beavers Welcome Pack](https://drive.google.com/open?id=1ovZWSE78vXcjLT5eEIYMbYqy0A_PRd4o)
 
-### Cubs Welcome Pack (Coming Soon)
+[Cubs Welcome Pack](https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing)
 
-### [Scout Welcome Pack](https://docs.google.com/document/d/19O11bimOt4Y_4BhlCluD64SlyZpv3Z2bi238M5PvDUI/edit?usp=sharing "Scout Welcome Pack")
+[Scout Welcome Pack](https://drive.google.com/open?id=19O11bimOt4Y_4BhlCluD64SlyZpv3Z2bi238M5PvDUI)
+
+Once you are happy that your YP is enjoying Scouting @ Goldthorpe, then please use the following link to order a uniform.
+
+[New Uniform Requests](https://docs.google.com/forms/d/e/1FAIpQLSeWAdScUl0Zs7wvr_GLu7UQYzss_RPYYKTooZX3ysul2xO67w/viewform?usp=sf_link)
