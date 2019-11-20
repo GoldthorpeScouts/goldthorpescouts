@@ -63,5 +63,4 @@ fields:
   hidden: false
   default: true
 pages:
-- content/new-uniform-request.md
 - content/what3words-search.md
