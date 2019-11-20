@@ -16,13 +16,13 @@ For New Adults (we always appreciate help) please print out and fill in this for
 
 [New members](https://members.scouts.org.uk/documents/GDPR/Forms/VO%20Adult%20Information%20Form%20Jan2019_Print%20Friendly%20-%20final.pdf)
 
-Section Welcome Packs, to print off for reference.
+Section Welcome Packs, to print off for reference, your Section Leader will give you a copy of this on your first night.
 
 [Beavers Welcome Pack](https://drive.google.com/open?id=1ovZWSE78vXcjLT5eEIYMbYqy0A_PRd4o)
 
 [Cubs Welcome Pack](https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing)
 
-[Scout Welcome Pack](https://drive.google.com/open?id=19O11bimOt4Y_4BhlCluD64SlyZpv3Z2bi238M5PvDUI)
+[Scout Welcome Pack](https://drive.google.com/file/d/1T0dkPkeJ47mAdsK-5QKydpNhRkIO9-8d/view?usp=sharing)
 
 Once you are happy that your YP is enjoying Scouting @ Goldthorpe, then please use the following link to order a uniform.
 
