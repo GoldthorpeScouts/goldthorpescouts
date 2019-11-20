@@ -34,11 +34,11 @@ Once you are happy that your YP is enjoying Scouting @ Goldthorpe, then please u
 
 Once you have the uniform, and you have been invested, then the next journey, is the badges. So where do they go? Well Here you are.
 
-Beavers Badge Location
+[Beavers Badge Location](https://drive.google.com/file/d/1S4x7kczSO_JDLPevnwqdahbAOE4cNtuE/view?usp=sharing)
 
-Cubs Badge Location
+[Cubs Badge Location](https://drive.google.com/file/d/1S4x7kczSO_JDLPevnwqdahbAOE4cNtuE/view?usp=sharing)
 
-Scout Badge Location
+[Scout Badge Location](https://drive.google.com/file/d/1u9ASXAo9Qy5ywTIgDSlM0GfDXaBdkYyh/view?usp=sharing)
 
 # Adult Help
 
