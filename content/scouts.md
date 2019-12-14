@@ -2,7 +2,7 @@
 title: Scouts
 subtitle: Our oldest section at Goldthorpe for young people from 10 and a half to
   14
-date: 2018-04-30 21:39:12 +0000
+date: 2018-04-30T21:39:12.000+00:00
 feature_image: "/img/sunset_scouts.jpg"
 tags:
 - scouts
@@ -92,8 +92,10 @@ Each year we will plan fundraising to lower the cost of running out camps and tr
 
 # Our Scout Leaders
 
-Scott Guymer      Scout Section Leader  
+Will Goddard     Scout Section Leader
+
+Andy Brown   Assistant Section Leader  
 Marie Heap        Assistant Section Leader  
 Amanda Marcroft   Assistant Section Leader
 
-Scouts runs every monday during term time only between 7:00pm to 8:30pm
+Scouts runs every Monday during term time only between 7:00pm to 8:30pm
