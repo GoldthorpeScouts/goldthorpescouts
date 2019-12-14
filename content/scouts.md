@@ -92,9 +92,8 @@ Each year we will plan fundraising to lower the cost of running out camps and tr
 
 # Our Scout Leaders
 
-Will Goddard     Scout Section Leader
-
-Andy Brown   Assistant Section Leader  
+Will Goddard      Scout Section Leader
+Andy Brown        Assistant Section Leader  
 Marie Heap        Assistant Section Leader  
 Amanda Marcroft   Assistant Section Leader
 
