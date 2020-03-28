@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 feature_image = ""
 tags = []
 title = "Home Study Ideas - Badge work and just for fun"
@@ -67,6 +66,10 @@ weight = 1
 
 # Then just for fun
 
+Scouts - The Great Indoors
+
+[https://www.scouts.org.uk/the-great-indoors/](https://www.scouts.org.uk/the-great-indoors/ "https://www.scouts.org.uk/the-great-indoors/")
+
 David Williams - Elevenses
 
 [https://www.worldofdavidwalliams.com/elevenses/](https://www.worldofdavidwalliams.com/elevenses/ "https://www.worldofdavidwalliams.com/elevenses/")
@@ -74,7 +77,3 @@ David Williams - Elevenses
 A List of Kids Activities offering Free Subscriptions
 
 [https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/ "https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/")
-
-Scouts - The Great Indoors
-
-[https://www.scouts.org.uk/the-great-indoors/](https://www.scouts.org.uk/the-great-indoors/ "https://www.scouts.org.uk/the-great-indoors/")
