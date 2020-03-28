@@ -77,3 +77,11 @@ David Williams - Elevenses
 A List of Kids Activities offering Free Subscriptions
 
 [https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/ "https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/")
+
+P.E. With Joe.
+
+[https://www.youtube.com/playlist?list=PLyCLoPd4VxBvQafyve889qVcPxYEjdSTl](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvQafyve889qVcPxYEjdSTl "https://www.youtube.com/playlist?list=PLyCLoPd4VxBvQafyve889qVcPxYEjdSTl")
+
+BBC Newsround
+
+[https://www.bbc.co.uk/newsround](https://www.bbc.co.uk/newsround "https://www.bbc.co.uk/newsround")
