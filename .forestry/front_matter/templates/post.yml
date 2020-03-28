@@ -30,6 +30,7 @@ fields:
   name: tags
   description: Tags for this page
 pages:
+- content/home-study-ideas-badge-work-and-just-for-fun.md
 - content/posts/may-2019-camp-silverwood.md
 - content/posts/style-guide.md
 - content/posts/welcome-to-our-new-site.md
