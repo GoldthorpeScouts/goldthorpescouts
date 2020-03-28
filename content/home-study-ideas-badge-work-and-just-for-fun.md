@@ -24,6 +24,8 @@ Scouts - The Great Indoors
 
 Badges @ Home for all Sections
 
+[https://www.onlinescoutmanager.co.uk/login.php](https://www.onlinescoutmanager.co.uk/login.php "Parent Portal for Scouts")
+
 **_Beavers_**
 
 **Challenge Badge**
