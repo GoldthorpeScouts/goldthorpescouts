@@ -40,7 +40,7 @@ weight = 5
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Home"
 url = "/"

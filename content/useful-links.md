@@ -5,7 +5,7 @@ subtitle = ""
 tags = []
 title = "Useful Links"
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 # New Starter Form
