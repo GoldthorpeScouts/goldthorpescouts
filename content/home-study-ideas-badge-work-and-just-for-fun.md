@@ -116,6 +116,22 @@ Powered by Google Maps, this [virtual field trip](https://www.bostonchildrensmus
 
 This engaging and [interactive tour](https://britishmuseum.withgoogle.com/?mod=article_inline) is super cool. Check out hundreds of artifacts that can be searched by era, category or region of the world. Round clay tablets from schoolchildren in ancient Mesopotamia, a crocodile-skin suit of armor from ancient Egypt or even the Rosetta Stone are just a few of the treasures you can check out from home.
 
+### The National Museum of Computing, Milton Keynes, UK
+
+The National Museum of Computing contains the world’s largest collection of working historic computers. That means one of them probably runs Microsoft Vista and is still working...
+
+The museum features a fantastic, intuitive, virtual 3D tour. You can zoom in on each exhibit’s details, and find out more about every aspect of computing history, such as the world’s oldest working digital computer. Impressive stuff.
+
+Discover a digital treasure trove: [The National Museum of Computing](https://www.tnmoc.org/news-releases/2017/6/6/3d-virtual-tour-now-online?rq=virtual)
+
+### The Royal Academy of Arts, London
+
+If you’re amazed by architecture, the Royal Academy of Arts has a virtual tour that will make you go “ooo” and “ahh” for hours. The Sensing Spaces exhibition uses high-quality 360-degree photography to give visitors a taste of its structures and remarkable exhibitions – it really does feel as if you’re actually there.
+
+Each exhibition is complemented by further information for users to read through, but you’re encouraged to come to your own conclusions, and think about what each space means to you.
+
+Visit the exhibition: [Sensing Spaces](https://www.eyerevolution.co.uk/virtual-tours/art-gallery-virtual-tour-royal-academy/)
+
 ## **Wonders of the World**
 
 ### **Great Wall of China**
@@ -125,6 +141,32 @@ Trek across 3,000 miles of the [Great Wall of China](https://www.thechinaguide.c
 ### **Easter Island**
 
 Virtually venture to [Easter Island](https://artsandculture.google.com/story/4wXhfs-0ooroMQ?hl=en&mod=article_inline), one of the most remote islands in the world and check out the moai — the mysterious giant statues that the island is known for. It’s easy to get lost in researching all about the approximately 900 moai and 300 ahu (or the ceremonial platforms) that can be found along the island’s coast.
+
+### Machu Picchu, Andes Mountains, Peru
+
+A simply stunning UNESCO World Heritage site, Machu Picchu is a visual wonder that just has to be seen. You no longer need to fly all the way to Peru to see it in all its glory, however, as the virtual tour is comprehensive, immersive, and filled with fascinating insights.
+
+With 360-degree views of the ruins of Inca settlements and lush green landscapes, you can visit every popular vantage point and learn more about the history of the famous site thanks to a helpful voice narrator. OK, you can’t feel the warm breeze around you, but if you turn on the heat and have a handy desk fan set to low, it’s almost as good as the real thing. Almost.
+
+Behold the marvel: [Machu Picchu](https://www.youvisit.com/tour/machupicchu)
+
+### A 3 Minute Tour, Tokyo
+
+What if we told you that you could ride in a Tuk Tuk, walk across the famous Shibuya crossing, win a Pikachu from a claw machine, and make friends with a robot… all in under three minutes. That might be physically impossible, but with VR it’s a breeze.
+
+If you’ve ever wanted to take a whistle-stop tour of Japan, the Japan National Tourism Organization has created a 360-degree virtual reality video that lets you do all of the above, and lots more.
+
+Simply put on a VR headset to experience a surreal thrill ride, where you’ll go from feeding a deer to facing off against a sumo wrestler in a matter of seconds. The video is also viewable in 2D, and well worth a look.
+
+[https://youtu.be/OR_Y7vj66PU](https://youtu.be/OR_Y7vj66PU "https://youtu.be/OR_Y7vj66PU")
+
+### The Vatican, Rome
+
+Filled with spectacular architecture and historic monuments, The Vatican is within your virtual reach, with a host of museums providing online tours. Step into the Sistine Chapel and Raphael’s Rooms, which are adorned with simply sensational artwork.
+
+The tour is compatible with WebVR, so you can pop on a VR headset to get an even closer look at some of mankind’s most memorable creations. It’s truly breathtaking, even when viewed through a screen.
+
+When in Rome, visit: [The Vatican](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html)
 
 ## Space
 
@@ -136,3 +178,9 @@ Explore the [surface of Mars](https://accessmars.withgoogle.com/?mod=article_inl
 
   
 Expedition 33 Commander Suni Williams floats through the [International Space Station](https://www.nasa.gov/mission_pages/station/main/suni_iss_tour.html?mod=article_inline) and gives those of us stuck on Earth a tour of the laboratories, observation deck, the crew’s sleep quarters and more. It’s fascinating to see our planet down below from the observation deck and to find out what life is really like on the station.
+
+## Football Stadiums
+
+Have a look at your favourite football clubs stadium, the tunnel or the changing rooms
+
+[https://www.footballstadiums360.com/](https://www.footballstadiums360.com/ "https://www.footballstadiums360.com/")
