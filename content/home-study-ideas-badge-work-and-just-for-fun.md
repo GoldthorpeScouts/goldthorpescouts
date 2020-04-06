@@ -52,6 +52,7 @@ weight = 1
 
 ### **Activity Badges**
 
+* Circus Skills
 * Craft
 * Electronics
 * Hobbies
