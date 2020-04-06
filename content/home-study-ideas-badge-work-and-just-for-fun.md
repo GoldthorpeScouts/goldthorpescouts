@@ -27,7 +27,8 @@ weight = 1
 
 ### **Staged Badges**
 
-* None Set yet
+* Air Activities
+* Musician
 
 ## **_Cubs_**
 
@@ -39,10 +40,12 @@ weight = 1
 
 * Artist
 * Entertainer
+* Hobbies
+* Photographer
 
 ### **Staged Badges**
 
-* None Set yet
+* Air Activities
 
 ## **_Scouts_**
 
