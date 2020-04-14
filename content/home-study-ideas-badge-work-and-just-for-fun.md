@@ -95,6 +95,10 @@ BBC Newsround
 
 [https://www.bbc.co.uk/newsround](https://www.bbc.co.uk/newsround "https://www.bbc.co.uk/newsround")
 
+Scout Knots
+
+[https://www.animatedknots.com/scouting-knots](https://www.animatedknots.com/scouting-knots "https://www.animatedknots.com/scouting-knots")
+
 # Virtual Tours
 
 ## **Zoos**
