@@ -17,12 +17,13 @@ weight = 1
 
 ### **Challenge Badge**
 
-* None Set yet
+* Personal Challenge Badge
 
 ### **Activity Badge**
 
-* Builder
 * Animal Friends
+* Book Reader
+* Builder
 * Photographer
 
 ### **Staged Badges**
