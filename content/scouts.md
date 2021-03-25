@@ -95,4 +95,4 @@ Each year we will plan fundraising to lower the cost of running out camps and tr
 Andy Brown  
 Marie Heap
 
-Scouts runs every Monday during term time only between 7:00pm to 9pm
+Scouts runs every Monday during term time only between 7pm to 9pm
