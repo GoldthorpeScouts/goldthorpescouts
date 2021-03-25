@@ -92,9 +92,7 @@ Each year we will plan fundraising to lower the cost of running out camps and tr
 
 # Our Scout Leaders
 
-Will Goddard      Scout Section Leader
-Andy Brown        Assistant Section Leader  
-Marie Heap        Assistant Section Leader  
-Amanda Marcroft   Assistant Section Leader
+Andy Brown  
+Marie Heap
 
-Scouts runs every Monday during term time only between 7:00pm to 8:30pm
+Scouts runs every Monday during term time only between 7:00pm to 9pm
