@@ -24,4 +24,6 @@ During their time in the Pack, Cub Scouts will get a chance to try a wide range 
 
 Cubs runs every Thursday during term time only between 6:30pm and 8:00pm
 
+Cubs Welcome Pack
+
 [https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing](https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing "https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing")
