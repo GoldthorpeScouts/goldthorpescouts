@@ -57,7 +57,7 @@ title = "6th Barnsley (Goldthorpe)"
 [params.contact]
 service = "formspree"
 [params.footer]
-copyright = "[&copy; Goldthorpe Scouts 2018](https://choosealicense.com/licenses/mit/)"
+copyright = "[&copy; Goldthorpe Scouts 2020](https://choosealicense.com/licenses/mit/)"
 [params.landing.CTA]
 heading = "Get in touch!"
 message = "We'd love to hear from you."
