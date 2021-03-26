@@ -1,7 +1,7 @@
 ---
 title: Cubs
 subtitle: Young people from 8 to 10 and a half
-date: 2018-05-01 07:39:12 +1000
+date: 2018-05-01T07:39:12.000+10:00
 feature_image: "/img/freely-10057.jpg"
 tags:
 - cubs
@@ -23,3 +23,5 @@ A Cub  Pack is usually organised into small groups called Sixes, each headed up 
 During their time in the Pack, Cub Scouts will get a chance to try a wide range of different activities as well as going on trips, days out, and on camps.  Participaton and personal development, rather than meeting set standards, is the key approach, and there are a range of badges and challenge awards that Cub Scouts can gain to recognise their achievements.
 
 Cubs runs every Thursday during term time only between 6:30pm and 8:00pm
+
+[https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing](https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing "https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing")
