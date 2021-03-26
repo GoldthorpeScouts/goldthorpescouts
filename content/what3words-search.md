@@ -17,7 +17,7 @@ Home Base
 <what3words-address words="///fittingly.waving.retail"/>
 <script src="https://assets.what3words.com/sdk/v3/what3words.js"></script>
 
-Beavers What2Words
+Beavers What2Words,
 
 <what3words-address words="///craft.slim.servicing"/>
 <script src="https://assets.what3words.com/sdk/v3/what3words.js"></script>
