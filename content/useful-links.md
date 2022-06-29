@@ -18,7 +18,7 @@ For new Beavers, Cubs, and Scouts please use the below form to provide Goldthorp
 
 Section Welcome Packs, to print off for reference, your Section Leader will give you a copy of this on your first night.
 
-[Beavers Welcome Pack](https://drive.google.com/open?id=1ovZWSE78vXcjLT5eEIYMbYqy0A_PRd4o)
+[Beavers Welcome Pack](https://drive.google.com/file/d/1id7OkapodiYSZN6IzRc_Nwgs_5dbnf96/view?usp=sharing)
 
 [Cubs Welcome Pack](https://drive.google.com/file/d/1b6UPJqWjgPr4YyaGTWfEQ8QRvP_U3oVL/view?usp=sharing)
 
